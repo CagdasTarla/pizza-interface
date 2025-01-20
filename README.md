@@ -1,1 +1,1 @@
-# pizza-interface
+Pizza ordering interface for customers.
